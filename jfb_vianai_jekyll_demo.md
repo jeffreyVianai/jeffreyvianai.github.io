@@ -15,6 +15,6 @@ snippet: here is a snippet to insert
 
 {{ page.snippet }}
 
-{{ site.snippetgood }}
+{{ site.snippet-good }}
 
 
